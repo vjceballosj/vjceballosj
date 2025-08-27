@@ -1,14 +1,15 @@
 ## Hi there 👋
 - 🌱 I’m currently learning ...
-👨‍💻 Dev en transición de Core Hadware a Software (Repositorio Oficial)
+
+- 👨‍💻 Dev en transición de Core Hadware a Software (Repositorio Oficial)
 Desarrollo web, Full Stack, arquitectura de software, DevOps y tecnologías modernas.
 
-🎯 Desde lo más básico, hasta lo más avanzado y actualizado para crecer como desarrollador profesional.
+- 🎯 Desde lo más básico, hasta lo más avanzado y actualizado para crecer como desarrollador profesional.
 
-📁 ¿Qué encontrarás en este perfil?
-Proyectos y ejercicios basados en proyectos de código cómo:
-Java, ApiRestful, Python, JavaScript, Angular, React, NodeJs, entre otros
-Recursos sobre Git, Docker, Kubernetes, CI/CD, Spring Boot y más
+- 📁 ¿Qué encontrarás en este perfil?
+      Proyectos y ejercicios basados en proyectos de código cómo:
+      Java, ApiRestful, Python, JavaScript, Angular, React, NodeJs, entre otros
+      Recursos sobre Git, Docker, Kubernetes, CI/CD, Spring Boot y más
 
 <!--
 **vjceballosj/vjceballosj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
